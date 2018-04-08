@@ -1,0 +1,117 @@
+\documentclass[11pt, a4paper, oneside]{article}
+
+\usepackage{color}
+\usepackage{tikz}
+\usepackage{showframe}
+\usepackage{blindtext}
+\usepackage{amsmath}
+
+\tikzset{
+    vertex/.style = {
+        circle,
+        fill = black,
+        outer sep = 2pt,
+        inner sep = 1pt,
+    }
+}
+
+\begin{document}
+
+\title{PRML study note}
+\author{Booil Jung}
+\date{April 9th 2018}
+\maketitle
+
+\section{Example: Polynomial Curve Fitting}
+.
+
+input vector with $D$ dimension:
+$$
+\mathbf{x} = { x_1, \cdots , x_D }
+$$
+
+training set with N observations of x: 
+$$
+\{ \mathbf{x}_1, \cdots \mathbf{x}_N \}
+$$
+
+machine learing function:
+$$
+y(\mathbf{x})
+$$
+
+target vector with $D$ dimension:
+$$
+\mathbf{t} = { t_1, \cdots , t_D }
+$$
+
+\subsection{Example: Polynomial Curve Fitting}
+.
+
+input variable:
+$$
+x
+$$
+
+target variable:
+$$
+t
+$$
+
+a training set comprising N observations of x:
+$$
+\mathbf{x}
+= \begin{pmatrix}
+x_1 & \cdots & x_N
+\end{pmatrix} ^T 
+$$
+
+corresponding observations of the values of $t$
+$$
+\mathbf{t}
+= \begin{pmatrix}
+1 & \cdots & t_N
+\end{pmatrix} ^T 
+$$
+
+predictions of target value:
+$$
+\hat{t}
+$$
+
+input value of $\hat{t}$
+$$
+\hat{x}
+$$
+
+order of the polynomial:
+$$
+M
+$$
+
+polynomial coefficients vector:
+$$
+\mathbf{w}
+= \begin{pmatrix}
+w_0 & \cdots & w_M
+\end{pmatrix}^T
+$$
+
+a polynomial function:
+\begin{equation}
+y(x, \mathbf{w})
+= w_0 + w_1x + w_2x^2 + \cdots + w_Mx^M
+= \sum_{j=0}^M w_j x^j 
+\tag{1.1}
+\end{equation}
+
+error function:
+\begin{equation}
+E(\mathbf{w})
+= \frac{1}{2} \sum_{n=1}^N \{ y(x_n, \mathbf{w}) - t_n\} ^2
+\tag{1.2}
+\end{equation}
+
+
+
+\end{document}

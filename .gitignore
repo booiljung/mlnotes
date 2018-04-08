@@ -1,6 +1,10 @@
 *.aux
+*.bbl
+*.blg
+*.dvi
 *.log
 *.pdf
 *.synctex.gz
+*.toc
 tikz.html
 
