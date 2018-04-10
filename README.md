@@ -49,6 +49,8 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 * [Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis - 2003](https://pdfs.semanticscholar.org/7b1c/c19dec9289c66e7ab45e80e8c42273509ab6.pdf)
 
+* [Visualizing and Understanding Convolutional Networks - 2013](https://arxiv.org/pdf/1311.2901.pdf)
+
 * [CNN #1 - 라온피플](https://laonple.blog.me/220811172205)
 * [CNN #2 - 라온피플](https://laonple.blog.me/220594258301)
 * [CNN #3 - 라온피플](https://laonple.blog.me/220608018546)
@@ -84,19 +86,28 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 * [Fully Convolutional Networks for Semantic Segmentation - 2015](https://arxiv.org/pdf/1411.4038.pdf)
 
-* [Multi-Scale Context Aggregation by Dilated Convolutions - 2015](https://arxiv.org/pdf/1511.07122.pdf)
-
 * [FCN #1 - 라온피플](https://laonple.blog.me/220958109081)
 * [FCN #2 - 라온피플](https://laonple.blog.me/220964957738)
 
 ## Deconvolutional Networks
 
+- 글로벌한 피쳐가 중요하면 풀링을 두고 디테일이 중요하면 풀링을 제거한다.
+
 * [Deconvolutional Networks, 2010](http://www.matthewzeiler.com/wp-content/uploads/2017/07/cvpr2010.pdf)
 
 * [Adaptive Deconvolutional Networks for Mid and High Level Feature Learning - 2011](http://www.matthewzeiler.com/wp-content/uploads/2017/07/iccv2011.pdf)
 
-* [Visualizing and Understanding Convolutional Networks - 2013](https://arxiv.org/pdf/1311.2901.pdf)
+* [Learning Deconvolution Network for Semantic Segmentation - 2015](https://arxiv.org/pdf/1505.04366.pdf)
+
+* Dilated Convolutions [Multi-Scale Context Aggregation by Dilated Convolutions - 2015](https://arxiv.org/pdf/1511.07122.pdf)
+
+* [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016](https://arxiv.org/pdf/1412.7062.pdf)
+* [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017](https://arxiv.org/pdf/1606.00915.pdf)
 
 * [Deconvolution Network - 라온피플](https://laonple.blog.me/220985349467)
+* [Dilated Convolution - 라온피플](https://laonple.blog.me/220991967450)
+
 * [CNN에서의 Deconvolution 이해하기](http://dambaekday.tistory.com/3)
+
+* [DeepLab - 라온피플](https://laonple.blog.me/221000648527)
 
