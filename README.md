@@ -35,9 +35,9 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 ## Stochastic Pooling
 
-* [Stochastic Pooling for Regularization of Deep Convolutional Neural Networks - 2013] (https://arxiv.org/abs/1301.3557)
+* [Stochastic Pooling for Regularization of Deep Convolutional Neural Networks - 2013](https://arxiv.org/abs/1301.3557)
 
-* [Stochastic Pooling - 라온피플] (https://laonple.blog.me/220830178487)
+* [Stochastic Pooling - 라온피플](https://laonple.blog.me/220830178487)
 
 ## Maxout Networks
 
@@ -49,7 +49,7 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 # CNN
 
-* [Backpropagation Applied to Handwritten Zip Code - 1989] http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
+* [Backpropagation Applied to Handwritten Zip Code - 1989](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
 
 * [Hierarchical Neural Networks for Image Interpretation - 2003 book](https://www.ais.uni-bonn.de/books/LNCS2766.pdf)
 
