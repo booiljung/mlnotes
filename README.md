@@ -60,8 +60,6 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis - 2003](https://pdfs.semanticscholar.org/7b1c/c19dec9289c66e7ab45e80e8c42273509ab6.pdf)
 
-[Visualizing and Understanding Convolutional Networks - 2013](https://arxiv.org/pdf/1311.2901.pdf)
-
 [CNN #1 - 라온피플](https://laonple.blog.me/220811172205)
 
 [CNN #2 - 라온피플](https://laonple.blog.me/220594258301)
@@ -78,9 +76,71 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 ## AlexNet
 
-[AlexNet - ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
+[AlexNet - ImageNet Classification with Deep Convolutional Neural Networks - 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
 
-[Alexnet #1 - 라온피플](https://laonple.blog.me/220654387455)
+[Improving neural networks by preventing co-adaptation of feature detectors - 2012](https://arxiv.org/pdf/1207.0580.pdf)
+
+[AlexNet #1 - 라온피플](https://laonple.blog.me/220654387455)
+
+[AlexNet #2 - 라온피플](https://laonple.blog.me/220662317927)
+
+[Alexnet #3 - 라온피플](https://laonple.blog.me/220667260878)
+
+## ZFNet
+
+[Visualizing and Understanding Convolutional Networks - 2013](https://arxiv.org/pdf/1311.2901.pdf)
+
+[Return of the Devil in the Details: Delving Deep into Convolutional Nets - 2014](https://arxiv.org/pdf/1405.3531.pdf)
+
+[deepViz: Visualizing Convolutional Neural Networks for Image Classification - 2015](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
+
+[ZFNet 1# - 라온피플](https://laonple.blog.me/220673615573)
+
+[ZFNet #2 - 라온피플](https://arxiv.org/pdf/1405.3531.pdf)
+
+[ZFNet #3 - 라온피플](https://laonple.blog.me/220680023908)
+
+## NIN
+
+[NIN - Network In Network - 2014](https://arxiv.org/pdf/1312.4400.pdf)
+
+## Auxiliary Classifier
+
+[Deeply-Supervised Nets - 2014](https://arxiv.org/pdf/1409.5185.pdf)
+
+[Training Deeper Convolutional Networks with Deep Supervision - 2015](https://arxiv.org/abs/1505.02496)
+
+[GoogLeNet #3 NIN - 라온피플](https://laonple.blog.me/220704822964)
+
+[GoogLeNet #4 Auxiliary Classifier - 라온피플](https://laonple.blog.me/220710707354)
+
+## Factorizing Convolutions
+
+[GoogLeNet #4 Factorizing Convolution - 라온피플](https://laonple.blog.me/220710707354)
+
+## GoogLeNet
+
+[Going Deeper with Convolutions - 2015](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
+
+[GoogLeNet #1 - 라온피플](https://laonple.blog.me/220686328027)
+
+[GoogLeNet #2 - 라온피플](https://laonple.blog.me/220692793375)
+
+[GoogLeNet #3 NIN - 라온피플](https://laonple.blog.me/220704822964)
+
+[GoogLeNet #4 Auxiliary Classifier, Factorizing Convolution - 라온피플](https://laonple.blog.me/220710707354)
+
+[GoogLeNet # - 라온피플]()
+
+[GoogLeNet # - 라온피플]()
+
+[GoogLeNet # - 라온피플]()
+
+[GoogLeNet # - 라온피플]()
+
+[GoogLeNet # - 라온피플]()
+
+[GoogLeNet # - 라온피플]()
 
 # RNN
 
@@ -168,7 +228,7 @@ Dilated Convolutions [Multi-Scale Context Aggregation by Dilated Convolutions - 
 
 [L-RNN - Layer Recurrent Neural Networks - 2017](https://openreview.net/pdf?id=rJJRDvcex)
 
-[ReSeg - 라온피](https://laonple.blog.me/221037627532)
+[ReSeg - 라온피플](https://laonple.blog.me/221037627532)
 
 ## CRF
 
