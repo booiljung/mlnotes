@@ -106,15 +106,15 @@ Deeply-Supervised Nets - 2014 [paper](https://arxiv.org/pdf/1409.5185.pdf)
 
 Training Deeper Convolutional Networks with Deep Supervision - 2015 [paper](https://arxiv.org/abs/1505.02496)
 
-GoogLeNet [라온피플 #4 Auxiliary Classifier](https://laonple.blog.me/220710707354)
+GoogLeNet - 라온피플 [#4 Auxiliary Classifier](https://laonple.blog.me/220710707354)
 
 ## Factorizing Convolutions
 
-GoogLeNet [라온피플 #4 Factorizing Convolution](https://laonple.blog.me/220710707354)
+GoogLeNet - 라온피플 [#4 Factorizing Convolution](https://laonple.blog.me/220710707354)
 
 ## GoogLeNet
 
-[Going Deeper with Convolutions - 2015](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
+Going Deeper with Convolutions - 2015 [paper](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
 GoogLeNet - 라온피플
 [#1](https://laonple.blog.me/220686328027)
@@ -126,7 +126,7 @@ GoogLeNet - 라온피플
 
 ## R-CNN
 
-R-CNN [라온피플 GoogLeNet #6](https://laonple.blog.me/220731472214)
+R-CNN - 라온피플 [GoogLeNet #6](https://laonple.blog.me/220731472214)
 
 ## VGGNet
 
