@@ -14,9 +14,9 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - 2015](https://arxiv.org/pdf/1502.03167.pdf)
 
-[Batch Normalization #1 - 라온피플](https://laonple.blog.me/220808903260)
-
-[Batch Normalization #2 - 라온피플](https://laonple.blog.me/220811172205)
+Batch Normalization - 라온피플
+[#1](https://laonple.blog.me/220808903260)
+[#2](https://laonple.blog.me/220811172205)
 
 ## Dropout
 
@@ -24,11 +24,10 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [The dropout learning algorithm](https://www.sciencedirect.com/science/article/pii/S0004370214000216)
 
-[Dropout #1 - 라온피플](https://laonple.blog.me/220818841217)
-
-[Dropout #2 - 라온피플](https://laonple.blog.me/220823177178)
-
-[Dropout #3 - 라온피플](https://laonple.blog.me/220827359158)
+Dropout - 라온피플
+[#1](https://laonple.blog.me/220818841217)
+[#2](https://laonple.blog.me/220823177178)
+[#3](https://laonple.blog.me/220827359158)
 
 ### DropConnect
 
@@ -60,15 +59,12 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis - 2003](https://pdfs.semanticscholar.org/7b1c/c19dec9289c66e7ab45e80e8c42273509ab6.pdf)
 
-[CNN #1 - 라온피플](https://laonple.blog.me/220811172205)
-
-[CNN #2 - 라온피플](https://laonple.blog.me/220594258301)
-
-[CNN #3 - 라온피플](https://laonple.blog.me/220608018546)
-
-[CNN #4 - 라온피플](https://laonple.blog.me/220623406512)
-
-[CNN #5 - 라온피플](https://laonple.blog.me/220624485850)
+CNN - 라온피플
+[#1](https://laonple.blog.me/220811172205)
+[#2](https://laonple.blog.me/220594258301)
+[#3](https://laonple.blog.me/220608018546)
+[#4](https://laonple.blog.me/220623406512)
+[#5](https://laonple.blog.me/220624485850)
 
 ## LeNet
 
@@ -80,11 +76,10 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [Improving neural networks by preventing co-adaptation of feature detectors - 2012](https://arxiv.org/pdf/1207.0580.pdf)
 
-[AlexNet #1 - 라온피플](https://laonple.blog.me/220654387455)
-
-[AlexNet #2 - 라온피플](https://laonple.blog.me/220662317927)
-
-[Alexnet #3 - 라온피플](https://laonple.blog.me/220667260878)
+AlexNet - 라온피플
+[#1](https://laonple.blog.me/220654387455)
+[#2](https://laonple.blog.me/220662317927)
+[#3](https://laonple.blog.me/220667260878)
 
 ## ZFNet
 
@@ -94,15 +89,16 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [deepViz: Visualizing Convolutional Neural Networks for Image Classification - 2015](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
 
-[ZFNet 1# - 라온피플](https://laonple.blog.me/220673615573)
-
-[ZFNet #2 - 라온피플](https://arxiv.org/pdf/1405.3531.pdf)
-
-[ZFNet #3 - 라온피플](https://laonple.blog.me/220680023908)
+ZFNet - 라온피플
+[#1](https://laonple.blog.me/220673615573)
+[#2](https://arxiv.org/pdf/1405.3531.pdf)
+[#3](https://laonple.blog.me/220680023908)
 
 ## NIN
 
 [NIN - Network In Network - 2014](https://arxiv.org/pdf/1312.4400.pdf)
+
+GoogLeNet - 라온피플 [#3 NIN](https://laonple.blog.me/220704822964)
 
 ## Auxiliary Classifier
 
@@ -110,37 +106,23 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 [Training Deeper Convolutional Networks with Deep Supervision - 2015](https://arxiv.org/abs/1505.02496)
 
-[GoogLeNet #3 NIN - 라온피플](https://laonple.blog.me/220704822964)
-
-[GoogLeNet #4 Auxiliary Classifier - 라온피플](https://laonple.blog.me/220710707354)
+GoogLeNet - 라온피플 [#4 Auxiliary Classifier](https://laonple.blog.me/220710707354)
 
 ## Factorizing Convolutions
 
-[GoogLeNet #4 Factorizing Convolution - 라온피플](https://laonple.blog.me/220710707354)
+GoogLeNet - 라온피플 [#4 Factorizing Convolution](https://laonple.blog.me/220710707354)
 
 ## GoogLeNet
 
 [Going Deeper with Convolutions - 2015](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
-[GoogLeNet #1 - 라온피플](https://laonple.blog.me/220686328027)
-
-[GoogLeNet #2 - 라온피플](https://laonple.blog.me/220692793375)
-
-[GoogLeNet #3 NIN - 라온피플](https://laonple.blog.me/220704822964)
-
-[GoogLeNet #4 Auxiliary Classifier, Factorizing Convolution - 라온피플](https://laonple.blog.me/220710707354)
-
-[GoogLeNet # - 라온피플]()
-
-[GoogLeNet # - 라온피플]()
-
-[GoogLeNet # - 라온피플]()
-
-[GoogLeNet # - 라온피플]()
-
-[GoogLeNet # - 라온피플]()
-
-[GoogLeNet # - 라온피플]()
+[GoogLeNet - 라온피플]
+[#1](https://laonple.blog.me/220686328027)
+[#2](https://laonple.blog.me/220692793375)
+[#3](https://laonple.blog.me/220704822964)
+[#4](https://laonple.blog.me/220710707354)
+[#5](https://laonple.blog.me/220716782369)
+[#6](https://laonple.blog.me/220731472214)
 
 # RNN
 
