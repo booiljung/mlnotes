@@ -3,7 +3,6 @@
 mlnotes is collections and organized knowledgement about machine learning.
 
 
-
 # Books
 
 ## Machine Learning
@@ -27,10 +26,16 @@ Christopher Bishop
 * Depp Learing [home](http://www.deeplearningbook.org/) Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 
+# Basic Theory
+
+## Probability Theory
+
+* Probability Theory - SanghyukChun [blog](http://sanghyukchun.github.io/58/) 추천
+
+
 # Cost Functions
 
 ## MSE: Mean Squared Error
-
 
 
 ## Cross-Entropy Const Fuction
@@ -52,11 +57,13 @@ Christopher Bishop
 * Convolution arithmetic [github.com](https://github.com/vdumoulin/conv_arithmetic)
 * 콘볼루션 convolution (합성곱, 길쌈) 수식 없이 이해하기 - 빡션 블로그 [blog](http://ppaktion.maru.net/702)
 
+
 ### 1x1 Convolutions
 
 * 1x1 Convolutions - Udacity [youtube](https://www.youtube.com/watch?v=qVP574skyuM)
 * [Deep Learning] CS231n "1X1 Convolution" 이란? - 현미와 백미는 섞어먹자 [blog](http://yunmap.tistory.com/entry/%EC%A0%84%EC%82%B0%ED%95%99%ED%8A%B9%EA%B0%95-CS231n-1X1-Convolution-%EC%9D%B4%EB%9E%80)
 * One by One Convolution - counter-intuitively useful - Aaditya Prakash [blog](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
+
 
 # Optimizations
 
@@ -72,6 +79,52 @@ Christopher Bishop
 Practical Bayesian optimization of machine learning algorithms - 2012 [paper](https://arxiv.org/pdf/1206.2944.pdf)
 
 
+## Convex Optimization
+
+* Non-convex Optimization - 2017 [paper](https://arxiv.org/abs/1712.07897)
+* Convex Optimization (Gradient Descent) - SanghyukChun [blog](http://sanghyukchun.github.io/63/)
+
+
+## Contrained Optimization
+
+* Contrained Optimization: Step by Step [lecture note](https://www3.nd.edu/~jstiver/FIN360/Constrained%20Optimization.pdf)
+
+
+## Uncotrained Optimization
+
+* Uncontrained Optimization [lecture slide](http://www.ece.mcmaster.ca/~xwu/part4.pdf)
+
+
+## Linear Programming
+
+* Linear Programming [book](https://www.math.ucla.edu/~tom/LP.pdf)
+
+
+## Quadratic Programming
+
+* Quadratic Programming [book](https://www.math.uh.edu/~rohop/fall_06/Chapter3.pdf) 
+
+
+## Semidefinite Programming
+
+* Introduction to Semidefinite Programming [book](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/readings/MIT6_251JF09_SDP.pdf)
+
+
+## Gradient Descent
+
+* Gradient Descent - Texas University [lecture note](http://users.ece.utexas.edu/~cmcaram/EE381V_2012F/Lecture_4_Scribe_Notes.final.pdf)
+* Gradient Descent - 다크프로그래머 [blog](http://darkpgmr.tistory.com/133)
+
+
+## Coordinat Descent
+
+* Coordinate Descent Algorithms [paper](http://www.optimization-online.org/DB_FILE/2014/12/4679.pdf)
+
+
+## Steepest Descent
+
+* Method of steepest descent [lecture note](http://www.maths.manchester.ac.uk/~gajjar/MATH44011/notes/44011_note4.pdf)
+
 
 # Regulaization
 
@@ -81,7 +134,6 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
 * Batch Normalization - 라온피플
   * [blog #1](https://laonple.blog.me/220808903260)
   * [blog #2](https://laonple.blog.me/220811172205)
-
 
 
 ## Dropout
@@ -94,12 +146,10 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
   * [blog #3](https://laonple.blog.me/220827359158)
 
 
-
 ### DropConnect
 
 * Regularization of Neural Networks using DropConnect [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf)
 * DropConnect - 라온피플 [blog #1](https://laonple.blog.me/220827359158)
-
 
 
 ## Stochastic Pooling
@@ -108,13 +158,11 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
 * Stochastic Pooling - 라온피플 [blog #1](https://laonple.blog.me/220830178487)
 
 
-
 ## Maxout Networks
 
 * Maxout Networks - 2013 [paper](https://arxiv.org/pdf/1302.4389.pdf)
 * From Maxout to Channel-Out: Encoding Information on Sparse Pathways [paper](https://arxiv.org/pdf/1312.1909.pdf)
 * Maxout Networks - 라온피플 [blog #1](https://laonple.blog.me/220836305907)
-
 
 
 # CNN
@@ -129,7 +177,6 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
   * [blog #3](https://laonple.blog.me/220608018546)
   * [blog #4](https://laonple.blog.me/220623406512)
   * [blog #5](https://laonple.blog.me/220624485850)
-
 
 
 ## LeNet
@@ -148,7 +195,6 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
   * [blog #3](https://laonple.blog.me/220667260878)
 
 
-
 ## ZFNet
 
 * Visualizing and Understanding Convolutional Networks - 2013 [paper](https://arxiv.org/pdf/1311.2901.pdf)
@@ -160,12 +206,10 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
   * [blog #3](https://laonple.blog.me/220680023908)
 
 
-
 ## NIN
 
 * NIN - Network In Network - 2014 [paper](https://arxiv.org/pdf/1312.4400.pdf)
 * GoogLeNet - 라온피플 [#3 NIN](https://laonple.blog.me/220704822964)
-
 
 
 ## GoogLeNet
@@ -180,12 +224,10 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
   * [blog #6](https://laonple.blog.me/220731472214)
 
 
-
 ## R-CNN
 
 * Rich feature hierarchies for accurate object detection and semantic segmentation - 2013 [paper](https://arxiv.org/pdf/1311.2524.pdf)
 * R-CNN - 라온피플 [GoogLeNet #6](https://laonple.blog.me/220731472214)
-
 
 
 ## VGGNet
@@ -196,11 +238,9 @@ VGGNet - 라온피플
   * [blog #2](https://laonple.blog.me/220749876381)
 
 
-
 ## SPPNet <- R-CNN
 
 * Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition - 2015 [paper](https://arxiv.org/pdf/1406.4729.pdf)
-
 
 
 ## ResNet
@@ -216,7 +256,6 @@ VGGNet - 라온피플
   * [blog #8](https://laonple.blog.me/220800190798)
 
 
-
 ### Fast R-CNN
 
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks - 2016 [paper](https://arxiv.org/pdf/1506.01497.pdf)
@@ -228,7 +267,6 @@ VGGNet - 라온피플
   * [blog #5 ResNet](https://laonple.blog.me/220782324594)
 
 
-
 ## Auxiliary Classifier
 
 * Deeply-Supervised Nets - 2014 [paper](https://arxiv.org/pdf/1409.5185.pdf)
@@ -236,17 +274,14 @@ VGGNet - 라온피플
 * GoogLeNet - 라온피플 [blog #4 Auxiliary Classifier](https://laonple.blog.me/220710707354)
 
 
-
 ## Factorizing Convolutions
 
 * GoogLeNet - 라온피플 [blog #4 Factorizing Convolution](https://laonple.blog.me/220710707354)
 
 
-
 ## Overfeat
 
 * Overfeat - 라온피플 [blog](https://laonple.blog.me/220752877630)
-
 
 
 # RNN
@@ -255,7 +290,6 @@ VGGNet - 라온피플
 
 * Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation - 2014 [paper](https://arxiv.org/pdf/1406.1078.pdf)
 * Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling - 2014 [paper](http://pdfs.semanticscholar.org/2d9e/3f53fcdb548b0b3c4d4efb197f164fe0c381.pdf)
-
 
 
 # Image Segmentation
@@ -275,7 +309,6 @@ VGGNet - 라온피플
   * [blog #8 Watershed](https://laonple.blog.me/220902777415)
 
 
-
 ## Selective Search
 
 * Selective Search for Object Recognition - 2013 [paper](https://koen.me/research/pub/uijlings-ijcv2013-draft.pdf)
@@ -286,14 +319,12 @@ VGGNet - 라온피플
   * [blog #4](https://laonple.blog.me/220935916241)
 
 
-
 ## FCN
 
 * Fully Convolutional Networks for Semantic Segmentation - 2015 [paper](https://arxiv.org/pdf/1411.4038.pdf)
 * FCN - 라온피플
   * [blog #1](https://laonple.blog.me/220958109081)
   * [blog #2](https://laonple.blog.me/220964957738)
-
 
 
 ## Deconvolutional Networks
@@ -316,12 +347,10 @@ VGGNet - 라온피플
 [blog](https://laonple.blog.me/221000648527)
 
 
-
 ## ReNet
 
 * ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks - 2015 [paper](https://arxiv.org/pdf/1505.00393.pdf)
 * ReNet - 라온피플 [blog](https://laonple.blog.me/221035153295)
-
 
 
 ## ReSeg
@@ -329,7 +358,6 @@ VGGNet - 라온피플
 * ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation - 2016 [paper](https://arxiv.org/pdf/1511.07053.pdf)
 * L-RNN - Layer Recurrent Neural Networks - 2017 [paper](https://openreview.net/pdf?id=rJJRDvcex)
 * ReSeg - 라온피플 [#1](https://laonple.blog.me/221037627532)
-
 
 
 ## CRF
@@ -341,7 +369,6 @@ VGGNet - 라온피플
 * CRF - 라온피플 [DeepLab #2](https://laonple.blog.me/221017461464)
 
 
-
 ## Mean Field Approximation 
 
 * A Theory of Mean Field Approximation - ???? [paper](https://papers.nips.cc/paper/1604-a-theory-of-mean-field-approximation.pdf)
@@ -349,9 +376,22 @@ VGGNet - 라온피플
 
 # Face Alignment, Face Reduction
 
-* Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression - 2017 [paper](https://arxiv.org/pdf/1703.07834.pdf)
+* A Morphable Model For The Synthesis Of 3D Faces - 1999 [paper](http://gravis.dmi.unibas.ch/publications/Sigg99/morphmod2.pdf) Slow, Non-convex optimization problem
+* Estimating 3D Shape and Texture Using Pixel Intensity, Edges, Specular Highlights, Texture Constraints and a Prior - 2005 [paper](http://gravis.dmi.unibas.ch/publications/CVPR05_Romdhani.pdf) Slow, Non-convex optimization problem
+* 3D face reconstruction from a single image using a single reference face shape - 2011 [paper](https://www.ncbi.nlm.nih.gov/pubmed/21193812) 2.5D, Non-convex optimization problem, Difficulty.
 
+* Face Reconstruction in the Wild - 2011 [paper](https://grail.cs.washington.edu/3dfaces/paper.pdf) Solved many problems.
+
+* Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression - 2017 [paper](https://arxiv.org/pdf/1703.07834.pdf)
 * 3D Face Reconstruction with Geometry Details from a Single Image - 2017 [paper](https://arxiv.org/pdf/1702.05619.pdf)
+
+
+# Mathematics
+
+
+# People
+
+[Aaron S. Jackson](http://aaronsplace.co.uk/)
 
 
 # Datasets
@@ -362,7 +402,6 @@ VGGNet - 라온피플
 * The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset [web](https://www.cs.toronto.edu/~kriz/cifar.html)
 * The Street View House Numbers (SVHN) Dataset [web](http://ufldl.stanford.edu/housenumbers/)
 * ImageNet [web](www.image-net.org)
-
 
 
 ## Image segmentation
