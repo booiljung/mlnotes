@@ -14,9 +14,9 @@ Convolution arithmetic [github.com](https://github.com/vdumoulin/conv_arithmetic
 
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - 2015 [paper](https://arxiv.org/pdf/1502.03167.pdf)
 
-Batch Normalization
-[라온피플 #1](https://laonple.blog.me/220808903260)
-[라온피플 #2](https://laonple.blog.me/220811172205)
+Batch Normalization - 라온피플
+[#1](https://laonple.blog.me/220808903260)
+[#2](https://laonple.blog.me/220811172205)
 
 ## Dropout
 
@@ -24,22 +24,22 @@ A Simple Way to Prevent Neural Networks from Overfitting - 2014 [paper](https://
 
 The dropout learning algorithm [paper](https://www.sciencedirect.com/science/article/pii/S0004370214000216)
 
-Dropout
-[라온피플 #1](https://laonple.blog.me/220818841217)
-[라온피플 #2](https://laonple.blog.me/220823177178)
-[라온피플 #3](https://laonple.blog.me/220827359158)
+Dropout - 라온피플
+[#1](https://laonple.blog.me/220818841217)
+[#2](https://laonple.blog.me/220823177178)
+[#3](https://laonple.blog.me/220827359158)
 
 ### DropConnect
 
 Regularization of Neural Networks using DropConnect [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf)
 
-DropConnect [라온피플](https://laonple.blog.me/220827359158)
+DropConnect - 라온피플 [#1](https://laonple.blog.me/220827359158)
 
 ## Stochastic Pooling
 
 Stochastic Pooling for Regularization of Deep Convolutional Neural Networks - 2013 [paper](https://arxiv.org/abs/1301.3557)
 
-Stochastic Pooling [라온피플](https://laonple.blog.me/220830178487)
+Stochastic Pooling - 라온피플 [#1](https://laonple.blog.me/220830178487)
 
 ## Maxout Networks
 
@@ -47,7 +47,7 @@ Maxout Networks - 2013 [paper](https://arxiv.org/pdf/1302.4389.pdf)
 
 From Maxout to Channel-Out: Encoding Information on Sparse Pathways [paper](https://arxiv.org/pdf/1312.1909.pdf)
 
-Maxout Networks [라온피플](https://laonple.blog.me/220836305907)
+Maxout Networks - 라온피플 [#1](https://laonple.blog.me/220836305907)
 
 # CNN
 
@@ -59,16 +59,16 @@ Hierarchical Neural Networks for Image Interpretation - 2003 book [paper](https:
 
 Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis - 2003 [paper](https://pdfs.semanticscholar.org/7b1c/c19dec9289c66e7ab45e80e8c42273509ab6.pdf)
 
-CNN
-[라온피플 #1](https://laonple.blog.me/220811172205)
-[라온피플 #2](https://laonple.blog.me/220594258301)
-[라온피플 #3](https://laonple.blog.me/220608018546)
-[라온피플 #4](https://laonple.blog.me/220623406512)
-[라온피플 #5](https://laonple.blog.me/220624485850)
+CNN - 라온피플
+[#1](https://laonple.blog.me/220811172205)
+[#2](https://laonple.blog.me/220594258301)
+[#3](https://laonple.blog.me/220608018546)
+[#4](https://laonple.blog.me/220623406512)
+[#5](https://laonple.blog.me/220624485850)
 
 ## LeNet
 
-LeNet [라온피플](https://laonple.blog.me/220648539191)
+LeNet - 라온피플 [#1](https://laonple.blog.me/220648539191)
 
 ## AlexNet
 
@@ -76,10 +76,10 @@ AlexNet - ImageNet Classification with Deep Convolutional Neural Networks - 2012
 
 Improving neural networks by preventing co-adaptation of feature detectors - 2012 [paper](https://arxiv.org/pdf/1207.0580.pdf)
 
-AlexNet
-[라온피플 #1](https://laonple.blog.me/220654387455)
-[라온피플 #2](https://laonple.blog.me/220662317927)
-[라온피플 #3](https://laonple.blog.me/220667260878)
+AlexNet - 라온피플
+[#1](https://laonple.blog.me/220654387455)
+[#2](https://laonple.blog.me/220662317927)
+[#3](https://laonple.blog.me/220667260878)
 
 ## ZFNet
 
@@ -89,10 +89,10 @@ Return of the Devil in the Details: Delving Deep into Convolutional Nets - 2014 
 
 deepViz: Visualizing Convolutional Neural Networks for Image Classification - 2015 [paper](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
 
-ZFNet
-[라온피플 #1](https://laonple.blog.me/220673615573)
-[라온피플 #2](https://arxiv.org/pdf/1405.3531.pdf)
-[라온피플 #3](https://laonple.blog.me/220680023908)
+ZFNet - 라온피플
+[#1](https://laonple.blog.me/220673615573)
+[#2](https://arxiv.org/pdf/1405.3531.pdf)
+[#3](https://laonple.blog.me/220680023908)
 
 ## NIN
 
@@ -116,13 +116,29 @@ GoogLeNet [라온피플 #4 Factorizing Convolution](https://laonple.blog.me/2207
 
 [Going Deeper with Convolutions - 2015](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
-[GoogLeNet]
-[라온피플 #1](https://laonple.blog.me/220686328027)
-[라온피플 #2](https://laonple.blog.me/220692793375)
-[라온피플 #3](https://laonple.blog.me/220704822964)
-[라온피플 #4](https://laonple.blog.me/220710707354)
-[라온피플 #5](https://laonple.blog.me/220716782369)
-[라온피플 #6](https://laonple.blog.me/220731472214)
+GoogLeNet - 라온피플
+[#1](https://laonple.blog.me/220686328027)
+[#2](https://laonple.blog.me/220692793375)
+[#3](https://laonple.blog.me/220704822964)
+[#4](https://laonple.blog.me/220710707354)
+[#5](https://laonple.blog.me/220716782369)
+[#6](https://laonple.blog.me/220731472214)
+
+## R-CNN
+
+R-CNN [라온피플 GoogLeNet #6](https://laonple.blog.me/220731472214)
+
+## VGGNet
+
+Very Deep Convolutional Networks for Large-Scale Image Recognition - 2015 [https://arxiv.org/pdf/1409.1556.pdf]()
+
+VGGNet - 라온피플
+[#1](https://laonple.blog.me/220738560542)
+[#2](https://laonple.blog.me/220749876381)
+
+## SPPNet
+
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition - 2015 [paper](https://arxiv.org/pdf/1406.4729.pdf)
 
 # RNN
 
@@ -140,33 +156,33 @@ Use of Watershed in Contour Detection - 1979 [paper](http://cmm.ensmp.fr/~beuche
 
 SUSAN - A New Approach to Low Level Image Processing - 1997 [paper](https://link.springer.com/article/10.1023/A:1007963824710)
 
-Image Segmentation 
-[라온피플 #1 Introduction](https://laonple.blog.me/220624485850)
-[라온피플 #2 Thresholding](https://laonple.blog.me/220874313327)
-[라온피플 #3 LoG, DoG](https://laonple.blog.me/220875555860)
-[라온피플 #4 Canny Edge](https://laonple.blog.me/220876492301)
-[라온피플 #5 SUSAN](https://laonple.blog.me/220885732170)
-[라온피플 #6 Region Growing](https://laonple.blog.me/220890216653)
-[라온피플 #7 Region Merging, Region Splitting](https://laonple.blog.me/220895425377)
-[라온피플 #8 Watershed](https://laonple.blog.me/220902777415)
+Image Segmentation - 라온피플
+[#1 Introduction](https://laonple.blog.me/220624485850)
+[#2 Thresholding](https://laonple.blog.me/220874313327)
+[#3 LoG, DoG](https://laonple.blog.me/220875555860)
+[#4 Canny Edge](https://laonple.blog.me/220876492301)
+[#5 SUSAN](https://laonple.blog.me/220885732170)
+[#6 Region Growing](https://laonple.blog.me/220890216653)
+[#7 Region Merging, Region Splitting](https://laonple.blog.me/220895425377)
+[#8 Watershed](https://laonple.blog.me/220902777415)
 
 ## Selective Search
 
 Selective Search for Object Recognition - 2013 [paper](https://koen.me/research/pub/uijlings-ijcv2013-draft.pdf)
 
-Selective Search
-[라온피플 #1](https://laonple.blog.me/220918802749)
-[라온피플 #2](https://laonple.blog.me/220925179894)
-[라온피플 #3](https://laonple.blog.me/220930954658)
-[라온피플 #4](https://laonple.blog.me/220935916241)
+Selective Search - 라온피플
+[#1](https://laonple.blog.me/220918802749)
+[#2](https://laonple.blog.me/220925179894)
+[#3](https://laonple.blog.me/220930954658)
+[#4](https://laonple.blog.me/220935916241)
 
 ## FCN
 
 Fully Convolutional Networks for Semantic Segmentation - 2015 [paper](https://arxiv.org/pdf/1411.4038.pdf)
 
-FCN
-[라온피플 #1](https://laonple.blog.me/220958109081)
-[라온피플 #2](https://laonple.blog.me/220964957738)
+FCN - 라온피플
+[#1](https://laonple.blog.me/220958109081)
+[#2](https://laonple.blog.me/220964957738)
 
 ## Deconvolutional Networks
 
@@ -182,19 +198,19 @@ Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRF
 
 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/pdf/1606.00915.pdf)
 
-Deconvolution Network [라온피플](https://laonple.blog.me/220985349467)
+Deconvolution Network - 라온피플 [#1](https://laonple.blog.me/220985349467)
 
-Dilated Convolution [라온피플](https://laonple.blog.me/220991967450)
+Dilated Convolution - 라온피플 [#1](https://laonple.blog.me/220991967450)
 
-CNN에서의 Deconvolution 이해하기 [담백한 날](http://dambaekday.tistory.com/3)
+CNN에서의 Deconvolution 이해하기 - 담백한 날 [#1](http://dambaekday.tistory.com/3)
 
-DeepLab [라온피플](https://laonple.blog.me/221000648527)
+DeepLab - 라온피플 [#1](https://laonple.blog.me/221000648527)
 
 ## ReNet
 
 ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks - 2015 [paper](https://arxiv.org/pdf/1505.00393.pdf)
 
-ReNet [라온피플](https://laonple.blog.me/221035153295)
+ReNet - 라온피플 [#1](https://laonple.blog.me/221035153295)
 
 ## ReSeg
 
@@ -202,7 +218,7 @@ ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation - 2016 [
 
 L-RNN - Layer Recurrent Neural Networks - 2017 [paper](https://openreview.net/pdf?id=rJJRDvcex)
 
-ReSeg [라온피플](https://laonple.blog.me/221037627532)
+ReSeg - 라온피플 [#1](https://laonple.blog.me/221037627532)
 
 ## CRF
 
@@ -214,7 +230,7 @@ An Introduction to Conditional Random Fields [paper](http://homepages.inf.ed.ac.
 
 Learning Deconvolution Network for Semantic Segmentation - 2015 [paper](https://arxiv.org/pdf/1505.04366.pdf)
 
-CRF [라온피플 DeepLab #2](https://laonple.blog.me/221017461464)
+CRF - 라온피플 [DeepLab #2](https://laonple.blog.me/221017461464)
 
 ## Mean Field Approximation 
 
