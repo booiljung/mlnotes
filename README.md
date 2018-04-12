@@ -40,7 +40,17 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 * The Mathematical Theory of Communication - Claude E. Shannon [book:Amazon](https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484)
 
-* Information Theory - Sanghyuk [blog](http://sanghyukchun.github.io/62/) 
+* Information Theory - SanghyukChun [blog](http://sanghyukchun.github.io/62/) 
+
+
+## Game Theory
+
+* Game Theory Study (1) Introduction and Overview - SanghyukChun [blog](http://sanghyukchun.github.io/101/)
+
+
+## PAC Learning & Statistical Learning Theory
+
+* PAC Learning & Statistical Learning Theory - SanghyukChun [blog](http://sanghyukchun.github.io/66/)
 
 
 
@@ -95,7 +105,7 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 ## Reductions
 
-* Dimension Reduction - Sanghyuk [blog](http://sanghyukchun.github.io/72/)
+* Dimension Reduction - SanghyukChun [blog](http://sanghyukchun.github.io/72/)
 
 * Neural PCA - Oja - 1982
 
@@ -132,10 +142,6 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 * Deep Learing - Ian Goodfellow, Yoshua Bengio, Aaron Courville [home](http://www.deeplearningbook.org/)
 
-* Neural Networks Introduction - Sanghyuk [blog](http://sanghyukchun.github.io/74/)
-
-* Deep Learning (RBM, DBN, CNN) - Sanghyuk [blog](http://sanghyukchun.github.io/75/)
-
 * Rosenblatt proposed perceptrons - Rosenblatt - 1958
 
 * Neocognitron - Neocognitron - 1980
@@ -151,10 +157,15 @@ mlnotes is collections and organized knowledgement about machine learning.
 ## Articles
 
 * 학습 - 라온피플
-  * [#1 게의 식별](https://laonple.blog.me/220802224442)
-  * [#2 신경계의 구조](https://laonple.blog.me/220808107954)
-  * [#3 인공신경망 구조](https://laonple.blog.me/220812090501)
+  * #1 게의 식별 [blog](https://laonple.blog.me/220802224442)
+  * #2 신경계의 구조 [blog](https://laonple.blog.me/220808107954)
+  * #3 인공신경망 구조 [blog](https://laonple.blog.me/220812090501)
 
+* Neural Networks Introduction - SanghyukChun [blog](http://sanghyukchun.github.io/74/)
+
+* The Basic Principles in Deep Neural Networks - SanghyukChun [blog](http://sanghyukchun.github.io/54/)
+
+* Deep Learning (RBM, DBN, CNN) - SanghyukChun [blog](http://sanghyukchun.github.io/75/)
 
 
 ## Architectures
@@ -211,8 +222,9 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 ## Bayesian optimization
 
-Practical Bayesian optimization of machine learning algorithms - 2012 [paper](https://arxiv.org/pdf/1206.2944.pdf)
+* Practical Bayesian optimization of machine learning algorithms - 2012 [paper](https://arxiv.org/pdf/1206.2944.pdf)
 
+* Practical Bayesian Optimization of Machine Learning Algorithms - SanghyukChun [blog](http://sanghyukchun.github.io/99/) ***
 
 
 ## Convex Optimization
@@ -279,6 +291,8 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
 
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - 2015 [paper](https://arxiv.org/pdf/1502.03167.pdf)
 
+* Batch Normalization - SanghyukChun [blog](http://sanghyukchun.github.io/88/)
+
 * Batch Normalization - 라온피플
   * [blog #1](https://laonple.blog.me/220808903260)
   * [blog #2](https://laonple.blog.me/220811172205)
@@ -324,18 +338,13 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
 
 
 
-# AutoEncoders
+# Auto-Encoders
 
-* AutoEncoder - 1986
+* Auto-Encoder - 1986
 
-* AutoEncoder - 라온피플
+* Auto-Encoder - 라온피플
   * #1 [blog](https://laonple.blog.me/220850892431)
   * #2 [blog](https://laonple.blog.me/220884698923)
-  * # [blog]()
-  * # [blog]()
-  * # [blog]()
-  * # [blog]()
-  * # [blog]()
 
 
 
@@ -355,11 +364,11 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
 * An Analysis of Unsupervised Pre-training in Light of Recent Advances - 2014 [paper](https://arxiv.org/pdf/1412.6597.pdf)
 
 
-## Denoising AutoEncoder
+## Denoising Auto-Encoder
 
 * Extracting and Composing Robust Features with Denoising Autoencoders - 2008 [paper](http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf)
 
-* AutoEncoder - 라온피플 #3 Denoising AutoEncoder [blog](https://laonple.blog.me/220891144201)
+* Auto-Encoder - 라온피플 #3 Denoising Auto-Encoder [blog](https://laonple.blog.me/220891144201)
 
 
 ## Sparse Coding
@@ -372,14 +381,23 @@ Practical Bayesian optimization of machine learning algorithms - 2012 [paper](ht
 
 * Sparse Coding: definition [youtube](https://www.youtube.com/watch?v=7a0_iEruGoM)
 
-* AutoEncoder - 라온피플 #4 Sparse Coding [blog](https://laonple.blog.me/220914873095)
+* Auto-Encoder - 라온피플 #4 Sparse Coding [blog](https://laonple.blog.me/220914873095)
 
 
-### Sparse AutoEncoders
+### Sparse Auto-Encoders
 
-* k-Sparse Autoencoders - 2013 [paper](https://arxiv.org/pdf/1312.5663.pdf)
+* k-Sparse Auto-Encoders - 2013 [paper](https://arxiv.org/pdf/1312.5663.pdf)
 
-* AutoEncoder - 라온피플 #5 Sparse Auto Encoder [blog](https://laonple.blog.me/220943887634)
+* Auto-Encoder - 라온피플 #5 Sparse Auto-Encoder [blog](https://laonple.blog.me/220943887634)
+
+
+## Convolutional AutoEncoder
+
+* Stacked Convolutional Auto-Encoder for Hierarchical Feature Extraction - 2011 [paper](https://pdfs.semanticscholar.org/1c6d/990c80e60aa0b0059415444cdf94b3574f0f.pdf)
+
+* DeepPainter: Painter Classification Using Deep Convolutional Autoencoders - 2016 [paper](http://elidavid.com/pubs/deeppainter.pdf)
+
+* Auto-Encoder - 라온피플 #6 Convolutional Auto-Encoder, DeepPainter [blog](https://laonple.blog.me/220949087243)
 
 
 
@@ -555,6 +573,12 @@ VGGNet - 라온피플
 
 # RNN
 
+## RNN Regularazation
+
+* Recurrent Neural Network Regularization - 2015 [paper](https://arxiv.org/pdf/1409.2329.pdf)
+
+* Recurrent Neural Network Regularization - SanghyukChun [blog](http://sanghyukchun.github.io/89/)
+
 ## LSTM
 
 * Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation - 2014 [paper](https://arxiv.org/pdf/1406.1078.pdf)
@@ -605,38 +629,6 @@ VGGNet - 라온피플
 
 
 
-## Deconvolutional Networks
-
-* Deconvolutional Networks, 2010 [paper](http://www.matthewzeiler.com/wp-content/uploads/2017/07/cvpr2010.pdf)
-
-* Adaptive Deconvolutional Networks for Mid and High Level Feature Learning - 2011 [paper](http://www.matthewzeiler.com/wp-content/uploads/2017/07/iccv2011.pdf)
-
-* Visualizing and Understanding Convolutional Networks - 2013 [paper](https://arxiv.org/pdf/1311.2901.pdf)
-
-* Deep Convolutional Neural Network for Image Deconvolution - 2014 [paper](https://papers.nips.cc/paper/5485-deep-convolutional-neural-network-for-image-deconvolution.pdf)
-
-* Dilated Convolutions - Multi-Scale Context Aggregation by Dilated Convolutions - 2015 [paper](https://arxiv.org/pdf/1511.07122.pdf)
-
-* Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016 [paper](https://arxiv.org/pdf/1412.7062.pdf)
-
-* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/pdf/1606.00915.pdf)
-
-* CNN에서의 Deconvolution 이해하기 - 담백한오늘 [blog #1](http://dambaekday.tistory.com/3)
-
-* Deconvolution - sogangori
-[blog](https://m.blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220455525398&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
-
-* Deconvolution Network - 라온피플
-[blog](https://laonple.blog.me/220985349467)
-
-* Dilated Convolution - 라온피플
-[blog](https://laonple.blog.me/220991967450)
-
-* DeepLab - 라온피플
-[blog](https://laonple.blog.me/221000648527)
-
-
-
 ## ReNet
 
 * ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks - 2015 [paper](https://arxiv.org/pdf/1505.00393.pdf)
@@ -665,7 +657,13 @@ VGGNet - 라온피플
 
 * Learning Deconvolution Network for Semantic Segmentation - 2015 [paper](https://arxiv.org/pdf/1505.04366.pdf)
 
-* CRF - 라온피플 [DeepLab #2](https://laonple.blog.me/221017461464)
+* Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016 [paper](https://arxiv.org/pdf/1412.7062.pdf)
+
+* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/pdf/1606.00915.pdf)
+
+* CRF - #2 DeepLab - 라온피플 [blog](https://laonple.blog.me/221017461464)
+
+* DeepLab - 라온피플 [blog](https://laonple.blog.me/221000648527)
 
 
 
@@ -675,13 +673,76 @@ VGGNet - 라온피플
 
 
 
+# Reconstruction 
+
+## Deconvolutional Networks
+
+* Deconvolutional Networks, 2010 [paper](http://www.matthewzeiler.com/wp-content/uploads/2017/07/cvpr2010.pdf)
+
+* Adaptive Deconvolutional Networks for Mid and High Level Feature Learning - 2011 [paper](http://www.matthewzeiler.com/wp-content/uploads/2017/07/iccv2011.pdf)
+
+* Deep Convolutional Neural Network for Image Deconvolution - 2014 [paper](https://papers.nips.cc/paper/5485-deep-convolutional-neural-network-for-image-deconvolution.pdf)
+
+* Dilated Convolutions - Multi-Scale Context Aggregation by Dilated Convolutions - 2015 [paper](https://arxiv.org/pdf/1511.07122.pdf)
+
+* Deconvolution - sogangori [blog](https://m.blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220455525398&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+
+* Deconvolution Network - 라온피플 [blog](https://laonple.blog.me/220985349467)
+
+* CNN에서의 Deconvolution 이해하기 - 담백한오늘 [blog #1](http://dambaekday.tistory.com/3)
+
+* Dilated Convolution - 라온피플 [blog](https://laonple.blog.me/220991967450)
+
+
+
+## Reconductions
+
+* Pyramid-based texture analysis/synthesis - 1995 [paper](http://www.cns.nyu.edu/heegerlab/content/publications/Heeger-siggraph95.pdf)
+
+* A parametric texture model based on joint statistics of complex wavelet coefficients - 2000 [paper](https://dl.acm.org/citation.cfm?id=363108)
+
+* Understanding Deep Image Representations by Inverting Them - 2014 [paper](https://arxiv.org/pdf/1412.0035.pdf)
+
+* Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images - 2014 [paper](https://arxiv.org/pdf/1412.1897.pdf)
+
+* Texture Synthesis Using Convolutional Neural Networks - 2015 [paper](https://arxiv.org/pdf/1505.07376.pdf)
+
+* Visualizing and Understanding Convolutional Networks - 2013 [paper](https://arxiv.org/pdf/1311.2901.pdf)
+
+
+
+# Generation
+
+## Caption Generation
+
+* Show, Attend and Tell: Neural Image Caption Generation with Visual Attention - 2016 [paper](https://arxiv.org/pdf/1502.03044.pdf)
+
+* Show, Attend and Tell: Neural Image Caption Generation With Visual Attention - SanghyukChun [blog](http://sanghyukchun.github.io/93/)
+
+
+
 # Reinforcement Learnings
 
 ## Basics
 
-* Reinforcement Learning - Sanghyuk
+* Reinforcement Learning - SanghyukChun
   * Introduction [blog](http://sanghyukchun.github.io/76/)
   * Multi-armed Bandit [blog](http://sanghyukchun.github.io/96/)
+    
+
+## Reinforcement Learning
+
+* Playing Atari with Deep Reinforcement Learning - 2013 [paper](https://arxiv.org/pdf/1312.5602.pdf)
+
+* Playing Atri with Deep Reinforcement Learning - SanghyukChun [blog](http://sanghyukchun.github.io/90/)
+
+* Recurrent Models of Visual Attention - 2014 [paper](https://arxiv.org/pdf/1406.6247.pdf) ***
+
+* Recurrent Models of Visual Attention - SanghyukChun [blog](http://sanghyukchun.github.io/91/) ***
+
+* Reinforcement Learning - SanghyukChun [blog](http://sanghyukchun.github.io/76/)
+
+* AlphaGo의 알고리즘과 모델 - SanghyukChun [blog](http://sanghyukchun.github.io/97/)
 
 
 
@@ -689,7 +750,7 @@ VGGNet - 라온피플
 
 * RecSys 2016: Paper Session 8 - Parallel Recurrent Neural Network Architectures for Recommendations [youtube](https://www.youtube.com/watch?v=Mw2AV12WH4s&feature=youtu.be)
 
-* Recommandation System - Sanghyuk 
+* Recommandation System - SanghyukChun 
   * Matrix Completion [blog](http://sanghyukchun.github.io/73/)
   * Implicit Feedback [blog]http://sanghyukchun.github.io/95/
 
@@ -705,8 +766,13 @@ VGGNet - 라온피플
 
 * Fast Removal of Non-uniform Camera Shake [paper](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/files/Hirsch_ICCV2011_Fast%20removal%20of%20non-uniform%20camera%20shake.pdf)
 
-HDR image reconstruction from a single exposure using deep CNNs - 2017 [paper](https://arxiv.org/pdf/1710.07480.pdf)
+* HDR image reconstruction from a single exposure using deep CNNs - 2017 [paper](https://arxiv.org/pdf/1710.07480.pdf)
 
+## Arts
+
+* A Neural Algorithm of Artistic Style - 2015 [paper](https://arxiv.org/pdf/1508.06576.pdf)
+
+* 고흐의 그림을 따라그리는 Neural Network, a Neural Algorithm of Artistic Style - SanghyukChun [blog](http://sanghyukchun.github.io/92/)
 
 
 # Pose
@@ -732,7 +798,7 @@ HDR image reconstruction from a single exposure using deep CNNs - 2017 [paper](h
 
 # People
 
-[Aaron S. Jackson](http://aaronsplace.co.uk/)
+* [Aaron S. Jackson](http://aaronsplace.co.uk/)
 
 
 
