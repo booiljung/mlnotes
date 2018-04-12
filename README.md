@@ -3,41 +3,66 @@
 mlnotes is collections and organized knowledgement about machine learning.
 
 
-# Books
-
-## Machine Learning
-
-* Understanding Machine Learning - Shai Shalev-Shwartz, Shai Ben-Devid [Cambridge](http://www.cambridge.org/il/academic/subjects/computer-science/pattern-recognition-and-machine-learning/understanding-machine-learning-theory-algorithms#7fUpLU4ItLYx0bMj.97)
-
-* PRML: Pattern Recognition and Machine Learning - Christopher Bishop [Springer](https://www.springer.com/kr/book/9780387310732)
-
-* The Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani, Jerome Friedman [Stanford](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-* BRML: Bayesian Reasoning and Machine Learning - David Barber [Amazon](https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148)
-
-* A Probabilistic Theory of Pattern Recognition - Luc Devroye [Springer](http://www.springer.com/us/book/9780387946184)
-
-* Learning Bayesian Networks - Richard E. Neapolitan [Amazon](https://www.amazon.com/Learning-Bayesian-Networks-Richard-Neapolitan/dp/0130125342)
-
-* An Introduction to Statistical Learning with Applications in R - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani [Gareth James](http://www-bcf.usc.edu/~gareth/ISL/)
-
-* 기계학습 - 오일석 [한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B4606522972)
-
-
-## Deep Learning
-
-* 처음 배우는 딥러닝 수학 [한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
-
-* 밑바닥부터 시작하는 딥러닝 [한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198) 사이토 고키
-
-* Depp Learing [home](http://www.deeplearningbook.org/) Ian Goodfellow, Yoshua Bengio, Aaron Courville
-
-
 # Basic Theory
+
+## Algorithm
+
+* Algorithm - SanghyukChun [blog](http://sanghyukchun.github.io/60/)
+
 
 ## Probability Theory
 
 * Probability Theory - SanghyukChun [blog](http://sanghyukchun.github.io/58/) 추천
+
+
+## Decision Theory
+
+* Decision Theory: A Brief Introduction - Sven Ove Hansson - 1994 [overview paper](https://people.kth.se/~soh/decisiontheory.pdf)
+
+* Decision Theory - SanghyukChun [blog](http://sanghyukchun.github.io/61/)
+
+
+## Information Theroy
+
+* The Mathematical Theory of Communication - Claude E. Shannon [book:Amazon](https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484)
+
+* Information Theory - Sanghyuk [blog](http://sanghyukchun.github.io/62/) 
+
+
+# Algorithm
+
+* Introduction to Algorithms, Third Edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein [book:MIT Press](http://mitpress.mit.edu/books/introduction-algorithms-third-edition), 문병로 , 심규석 , 이충세 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B9722727468)
+
+
+# Machine Learning Basics
+
+* Understanding Machine Learning - Shai Shalev-Shwartz, Shai Ben-Devid [book:Cambridge](http://www.cambridge.org/il/academic/subjects/computer-science/pattern-recognition-and-machine-learning/understanding-machine-learning-theory-algorithms#7fUpLU4ItLYx0bMj.97)
+
+* PRML: Pattern Recognition and Machine Learning - Christopher Bishop [book:Springer](https://www.springer.com/kr/book/9780387310732)
+
+* The Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani, Jerome Friedman [book:Stanford](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+* BRML: Bayesian Reasoning and Machine Learning - David Barber [book:Amazon](https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148)
+
+* A Probabilistic Theory of Pattern Recognition - Luc Devroye [book:Springer](http://www.springer.com/us/book/9780387946184)
+
+* Learning Bayesian Networks - Richard E. Neapolitan [book:Amazon](https://www.amazon.com/Learning-Bayesian-Networks-Richard-Neapolitan/dp/0130125342)
+
+* An Introduction to Statistical Learning with Applications in R - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani [Gareth James](http://www-bcf.usc.edu/~gareth/ISL/)
+
+* 기계학습 - 오일석 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B4606522972)
+
+* Classification Introduction (Decision Tree, Naive Bayes, kNN) - SanghyukChun [blog](http://sanghyukchun.github.io/64/)
+
+* Clustering (k-means, Gaussian Mixture Model) - SanghyukChun [blog](http://sanghyukchun.github.io/69/)
+
+# Deep Learning Basics
+
+* 처음 배우는 딥러닝 수학 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
+
+* 밑바닥부터 시작하는 딥러닝 - 사이토 고키 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)
+
+* Deep Learing - Ian Goodfellow, Yoshua Bengio, Aaron Courville [home](http://www.deeplearningbook.org/)
 
 
 # Cost Functions
@@ -76,6 +101,13 @@ mlnotes is collections and organized knowledgement about machine learning.
 
 
 # Optimizations
+
+## Overfitting
+
+* Overfittig - SanghyukChun [blog](http://sanghyukchun.github.io/59/)
+
+* Understanding the Bias-Variance Tradeoff - Fortmann-Roe [Essays](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+ 
 
 ## Hyperparameter optimization
 
@@ -435,7 +467,25 @@ VGGNet - 라온피플
 * A Theory of Mean Field Approximation - ???? [paper](https://papers.nips.cc/paper/1604-a-theory-of-mean-field-approximation.pdf)
 
 
-# Face Alignment, Face Reduction
+# Recommandation System
+
+* RecSys 2016: Paper Session 8 - Parallel Recurrent Neural Network Architectures for Recommendations [youtube](https://www.youtube.com/watch?v=Mw2AV12WH4s&feature=youtu.be)
+
+
+# Pictures
+
+## Shaked Picture
+
+* Removing Camera Shake from a Single Photograph [paper](http://people.csail.mit.edu/billf/publications/Removing_Camera_Shake.pdf)
+
+* BlurBurst: Removing Blur Due to Camera Shake using Multiple Images [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.9321&rep=rep1&type=pdf)
+
+* Fast Removal of Non-uniform Camera Shake [paper](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/files/Hirsch_ICCV2011_Fast%20removal%20of%20non-uniform%20camera%20shake.pdf)
+
+
+# Pose
+
+## Face Alignment, Face Reduction
 
 * A Morphable Model For The Synthesis Of 3D Faces - 1999 [paper](http://gravis.dmi.unibas.ch/publications/Sigg99/morphmod2.pdf)     
   * Slow, Non-convex optimization problem
@@ -453,12 +503,20 @@ VGGNet - 라온피플
 * 3D Face Reconstruction with Geometry Details from a Single Image - 2017 [paper](https://arxiv.org/pdf/1702.05619.pdf)
 
 
-# Mathematics
-
-
 # People
 
 [Aaron S. Jackson](http://aaronsplace.co.uk/)
+
+
+# Tools
+
+## Machine Learning Library
+
+
+## Data Visualization
+
+* visdom [pypi](https://pypi.python.org/pypi/visdom/0.1.04)
+  * PyTorch
 
 
 # Datasets
