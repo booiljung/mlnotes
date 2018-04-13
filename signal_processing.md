@@ -2,7 +2,7 @@
 
 # Signal Processing
 
-[## Convolutions](convolutions)
+[## Convolutions](convolutions.md)
 
-[## Deconvolutional Networks](deconvolutions_networks)
+[## Deconvolutional Networks](deconvolutions_networks.md)
 
