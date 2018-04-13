@@ -1,5 +1,5 @@
-[Top](README) |
-[Signal Processing](signal_processing)
+[Top](README.md)
+[Signal Processing](signal_processing.md)
 
 # Convolutions
 
