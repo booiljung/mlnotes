@@ -1,3 +1,5 @@
+[Top](README)
+
 # Cost Functions
 
 ## MSE: Mean Squared Error

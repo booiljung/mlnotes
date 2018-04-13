@@ -1,9 +1,11 @@
+[Top](README)
+
 # mlnotes: Machine Learning Notes
 
 mlnotes is collections and organized knowledgement about machine learning.
 
 * [Basic Theory](basic_theory)
-* [Algorithm](algorithm)
+* [Algorithms](algorithms)
 * [Machine Learning Basics](machine_learning_basics)
 * [Deep Learning Basics](deep_learning_basics)
 * [Cost Funcitons](cost_functions)
