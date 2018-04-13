@@ -1,0 +1,30 @@
+\ifglsentryexists{supervised learning problems}{}%
+{%
+\gls@defglossaryentry{supervised learning problems}%
+{%
+name={supervised learning problems},%
+sort={pi},%
+type={main},%
+first={supervised learning problems},%
+firstplural={supervised learning problemss},%
+text={supervised learning problems},%
+plural={supervised learning problemss},%
+description={applications in which the training data comprises examples of the input vectors along with their corresponding target vectors.},%
+descriptionplural={applications in which the training data comprises examples of the input vectors along with their corresponding target vectors.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

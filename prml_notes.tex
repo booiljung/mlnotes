@@ -1,16 +1,19 @@
-\documentclass[11pt, a4paper, oneside]{article}
+\documentclass[11pt, a4paper, oneside]{book}
 
 \usepackage{color}
 \usepackage{tikz}
 \usepackage{showframe}
 \usepackage{blindtext}
 \usepackage{amsmath}
+\usepackage{amsthm}
 \usepackage{bm}
 \usepackage{calc}  
 \usepackage{enumitem} 
 \usepackage{xcolor}
 \usepackage{lipsum}
 \usepackage{setspace}
+\usepackage{glossaries}
+
 
 \SetLabelAlign{parright}{\parbox[t]{\labelwidth}{\raggedleft#1}}
 \setstretch{0.5}
@@ -24,6 +27,8 @@
     }
 }
 
+\newtheorem{definition}{Definition}
+
 \begin{document}
 
 \title{PRML study note}
@@ -31,10 +36,26 @@
 \date{April 9th 2018}
 \maketitle
 
-\section{Example: Polynomial Curve Fitting}
-.
+\chapter{Introduction}
 
-input vector $\mathbf{x}$:
+\noindent
+\textbf{Supervised learning problems}: \\
+Applications in which the training data comprises examples of the input vectors along with their corresponding target vectors.
+\\
+
+\noindent
+\textbf{Unsupervised learning problems:} \\
+The training data consists of a set of input vectors $\mathbf{x}$ without any corresponding target values
+\\
+
+\noindent
+may be to discover groups of similar examples within the data,
+where it is called clustering, or to determine the distribution of data within the input space, known as density estimation, or to project the data from a high-dimensional space down to two or three dimensions for the purpose of visualization.
+
+\section{Example: Polynomial Curve Fitting}
+
+\noindent
+Input vector $\mathbf{x}$:
 
 $$
 \mathbf{x} = { x_1, \cdots , x_D }
@@ -46,7 +67,8 @@ $$
 
 \bigskip
 
-training set: 
+\noindent
+Training set: 
 
 $$
 \{ \mathbf{x}_1, \cdots \mathbf{x}_N \}
@@ -58,14 +80,16 @@ $$
 
 \bigskip
 
-machine learing function:
+\noindent
+Machine learing function:
 $$
 y(\mathbf{x})
 $$
 
 \bigskip
 
-target vector $\mathbf{t}$:
+\noindent
+Target vector $\mathbf{t}$:
 $$
 \mathbf{t} = { t_1, \cdots , t_D }
 $$
@@ -77,9 +101,9 @@ $$
 \bigskip
 
 \subsection{Example: Polynomial Curve Fitting}
-.
 
-a training set $\mathbf{x}$:
+\noindent
+A training set $\mathbf{x}$:
 $$
 \mathbf{x}
 = \begin{pmatrix}
@@ -89,7 +113,8 @@ $$
 
 \bigskip
 
-a corresponding observations of target set $t$:
+\noindent
+A corresponding observations of target set $t$:
 $$
 \mathbf{t}
 	= \begin{pmatrix}
@@ -99,21 +124,24 @@ $$
 
 \bigskip
 
-predictions of target value:
+\noindent
+Predictions of target value:
 $$
 \hat{t}
 $$
 
 \bigskip
 
-input value of $\hat{t}$
+\noindent
+Input value of $\hat{t}$
 $$
 \hat{x}
 $$
 
 \bigskip
 
-a polynomial function:
+\noindent
+A polynomial function:
 \begin{equation}
 y(x, \mathbf{w})
 = w_0 + w_1x + w_2x^2 + \cdots + w_Mx^M
@@ -131,7 +159,8 @@ w_0 & \cdots & w_M
 
 \bigskip
 
-error function:
+\noindent
+Error function:
 \begin{equation}
 E(\mathbf{w})
 = \frac{1}{2} \sum_{n=1}^N \{ y(x_n, \mathbf{w}) - t_n\} ^2
@@ -140,7 +169,8 @@ E(\mathbf{w})
 
 \bigskip
 
-root-mean-square error:
+\noindent
+Root-mean-square error:
 \begin{equation}
 E_{\text{RMS}} = \sqrt{ 2\frac{E(\mathbf{w}^\star)}{N} }
 \tag{1.3}
@@ -153,6 +183,7 @@ E_{\text{RMS}} = \sqrt{ 2\frac{E(\mathbf{w}^\star)}{N} }
 
 \bigskip
 
+\noindent
 modified error function:
 \begin{equation}
 \tilde{E}(\mathbf{w})
@@ -184,6 +215,7 @@ $$
 \end{tikzpicture}
 \end{center}
 
+\noindent
 joint probability of $X = x_i$ and $Y = y_j$ :
 
 \begin{equation}
@@ -196,10 +228,7 @@ p(X = x_i, Y = y_j) = \frac{n_{ij}}{N}
 	\item[$Y = y_j :$] probability $Y$ take value $y_j$
 \end{description}
 
-
 \bigskip
-
-
 
 \begin{equation}
 \tag{}
