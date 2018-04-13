@@ -10,7 +10,56 @@
 
 ## Probability Theory
 
-* Probability Theory - SanghyukChun [blog](http://sanghyukchun.github.io/58/) 추천
+### Statistics Basics
+
+* Statistics Basics - leerider
+  * 평균, 분산, 표준편차에 대한 이해 [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=31)
+  * 공분산과 상관계수에 대한 이해 [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=30)
+  * 가설검정에 대한 이해 [#1](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=29)
+  * 가설검정에 대한 이해 [#2](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=28)
+  * 평균과 표준편차를 통해 등수를 짐작하는 방법 [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=27)
+  * one sample t-test [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=26)
+  * two sample t-test [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=25)
+  * .............
+
+
+### Distributions
+
+#### Decrete Distribution
+
+* Decrete Distribution - leerider
+  * Binomial Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=4)
+  * Negative Binomial distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=9)
+  * Poisson Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=8)
+  * Geometric distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=10)
+  * Hyper Geometric distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=7)
+  * Binomial Distribution와 Normal Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=6)
+  * Binomial Distribution와 Poisson distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=5)
+  * Binomial Distribution와 Hyper Geometric distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=3)
+  * Binomial Distribution와 Geometric distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=53&currentPage=2)
+  * Binomial Distribution와 Negative Binomial Distribution [blog](http://blog.naver.com/PostList.nhn?blogId=leerider&from=postList&categoryNo=53)
+
+
+
+#### Continuous Distributiuon
+
+* Continuous Distribution - leerider
+  * Uniform Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=55&currentPage=6)  
+  * Exponential Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=55&currentPage=7)
+  * Erlang Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=55&currentPage=5)
+  * Gamma Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=55&currentPage=4)
+  * Weibull Distribution(와이블 분포) [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=55&currentPage=3)
+  * Beta Distribution [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=55&currentPage=2)
+  * Log Normal distribution [blog](http://blog.naver.com/PostList.nhn?blogId=leerider&from=postList&categoryNo=55)
+
+
+
+
+### Estimations
+
+* Probability Theory - SanghyukChun [blog](http://sanghyukchun.github.io/58/) ***
+
+* MLE(Maximum Likelihood Estimation)에 대한 이해 - leerider [blog](http://blog.naver.com/PostView.nhn?blogId=leerider&logNo=100189193480)
 
 
 

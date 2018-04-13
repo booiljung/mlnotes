@@ -63,11 +63,23 @@
 
 
 
+## Least Square
+
+* 최소자승법 이해와 다양한 활용예 (Least Square Method) - 다크 프로그래머 [blog](http://darkpgmr.tistory.com/56)
+
+
+
 ## Gradient Descent
 
 * Gradient Descent - Texas University [lecture note](http://users.ece.utexas.edu/~cmcaram/EE381V_2012F/Lecture_4_Scribe_Notes.final.pdf)
 
 * Gradient Descent - 다크프로그래머 [blog](http://darkpgmr.tistory.com/133)
+
+
+
+## Levenberg–Marquardt
+
+* 함수최적화 기법 정리 (Levenberg–Marquardt 방법 등) - 다크 프로그래머 [blog](http://darkpgmr.tistory.com/142)
 
 
 

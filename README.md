@@ -22,12 +22,11 @@ mlnotes is collections and organized knowledgement about machine learning.
 * [Reinforcement Learning](reinforcement_learning)
 * [Pictures](pictures)
 * [Pose Recognitions](pose_recognitions)
+* [Speech Separations](speech_separations)
 * [People](people)
 * [Tools](tools)
 * [Data Visualization](data_visualizations)
 * [Datasets](datasets)
-
-
 
 
 
