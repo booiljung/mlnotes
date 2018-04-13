@@ -19,6 +19,7 @@ mlnotes is collections and organized knowledgement about machine learning.
 * [Image Segmentations](image_segmentations)
 * [Reconstructions](reconstructions)
 * [Generations](generations)
+* [Generative Adversarial Networks](generative_adversarial_networks)
 * [Reinforcement Learning](reinforcement_learning)
 * [Pictures](pictures)
 * [Pose Recognitions](pose_recognitions)

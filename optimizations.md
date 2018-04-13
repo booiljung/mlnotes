@@ -63,7 +63,12 @@
 
 
 
-## Least Square
+## Least Square Method
+
+* 여러가지 이름.
+  * Least Mean Square
+  * 최소자승법
+  * 최소제곱법
 
 * 최소자승법 이해와 다양한 활용예 (Least Square Method) - 다크 프로그래머 [blog](http://darkpgmr.tistory.com/56)
 
@@ -77,7 +82,7 @@
 
 
 
-## Levenberg–Marquardt
+## Levenberg–Marquardt Method
 
 * 함수최적화 기법 정리 (Levenberg–Marquardt 방법 등) - 다크 프로그래머 [blog](http://darkpgmr.tistory.com/142)
 
